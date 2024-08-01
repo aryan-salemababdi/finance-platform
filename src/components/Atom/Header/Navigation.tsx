@@ -6,7 +6,7 @@ import { Menu } from "lucide-react";
 
 import { Button } from "@/components/ui/button";
 import NavButton from "../NavButton/NavButton";
-import { Sheet, SheetContent, SheetTrigger } from "../../ui/Sheet";
+import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/Sheet";
 
 const routes = [
   {
